@@ -1,0 +1,267 @@
+{
+    "1)La criptovaluta con il volume maggiore (in $) delle ultime 24 ore": [
+        31014975965.15523,
+        [
+            "Tether"
+        ]
+    ],
+    "2)Migliori 10 criptovalute per incremento nelle ultime 24h": [
+        [
+            9.93342767,
+            [
+                "Trust Wallet Token"
+            ]
+        ],
+        [
+            6.36107162,
+            [
+                "KuCoin Token"
+            ]
+        ],
+        [
+            1.22134806,
+            [
+                "WOO Network"
+            ]
+        ],
+        [
+            0.19442697,
+            [
+                "Gemini Dollar"
+            ]
+        ],
+        [
+            0.05174022,
+            [
+                "Dai"
+            ]
+        ],
+        [
+            0.02248027,
+            [
+                "Binance USD"
+            ]
+        ],
+        [
+            0.00466909,
+            [
+                "USD Coin"
+            ]
+        ],
+        [
+            -0.00165485,
+            [
+                "USDD"
+            ]
+        ],
+        [
+            -0.02026545,
+            [
+                "Pax Dollar"
+            ]
+        ],
+        [
+            -0.08933154,
+            [
+                "Tether"
+            ]
+        ]
+    ],
+    "3)Peggiori 10 criptovalute per incremento nelle ultime 24h": [
+        [
+            -10.93523341,
+            [
+                "Aave"
+            ]
+        ],
+        [
+            -9.86627121,
+            [
+                "Polygon"
+            ]
+        ],
+        [
+            -8.8109487,
+            [
+                "Hedera"
+            ]
+        ],
+        [
+            -8.7668404,
+            [
+                "Render Token"
+            ]
+        ],
+        [
+            -8.49948398,
+            [
+                "Injective"
+            ]
+        ],
+        [
+            -8.49206105,
+            [
+                "Lido DAO"
+            ]
+        ],
+        [
+            -8.4347721,
+            [
+                "Toncoin"
+            ]
+        ],
+        [
+            -7.69162995,
+            [
+                "Conflux"
+            ]
+        ],
+        [
+            -7.63556092,
+            [
+                "Flow"
+            ]
+        ],
+        [
+            -7.25178774,
+            [
+                "Pepe"
+            ]
+        ]
+    ],
+    "4)La quantita' di denaro necessaria per acquistare una unita' di ciascuna delle prime 20 criptovalute": [
+        51905.16881490773
+    ],
+    "5)La quantita' di denaro necessaria per acquistare una unita' di tutte le criptovalute il cui volume delle ultime 24 ore sia superiore a 76.000.000$": [
+        52056.43178812617
+    ],
+    "6)La percentuale di guadagno o perdita che avreste realizzato se aveste comprato una unita' di ciascuna delle prime 20 criptovalute il giorno prima (ipotizzando che la classifca non sia cambiata)": -4.075510896846921,
+    "7)Le migliori 10 criptovalute per incremento degli ultimi 7d": [
+        [
+            1.63280902,
+            [
+                "Maker"
+            ]
+        ],
+        [
+            0.06655142,
+            [
+                "TrueUSD"
+            ]
+        ],
+        [
+            -0.01519497,
+            [
+                "Pax Dollar"
+            ]
+        ],
+        [
+            -0.02316317,
+            [
+                "USD Coin"
+            ]
+        ],
+        [
+            -0.03582034,
+            [
+                "Binance USD"
+            ]
+        ],
+        [
+            -0.03714597,
+            [
+                "USDD"
+            ]
+        ],
+        [
+            -0.04878163,
+            [
+                "Dai"
+            ]
+        ],
+        [
+            -0.1611965,
+            [
+                "Tether"
+            ]
+        ],
+        [
+            -0.19662926,
+            [
+                "Gemini Dollar"
+            ]
+        ],
+        [
+            -0.59338662,
+            [
+                "UNUS SED LEO"
+            ]
+        ]
+    ],
+    "8)Le peggiori 10 criptovalute per incremento degli ultimi 7d": [
+        [
+            -28.86185728,
+            [
+                "Flow"
+            ]
+        ],
+        [
+            -28.31522674,
+            [
+                "ApeCoin"
+            ]
+        ],
+        [
+            -28.17834395,
+            [
+                "EOS"
+            ]
+        ],
+        [
+            -26.87013036,
+            [
+                "THORChain"
+            ]
+        ],
+        [
+            -26.83956176,
+            [
+                "WOO Network"
+            ]
+        ],
+        [
+            -26.50809226,
+            [
+                "Lido DAO"
+            ]
+        ],
+        [
+            -26.00531698,
+            [
+                "Chiliz"
+            ]
+        ],
+        [
+            -25.72336913,
+            [
+                "Axie Infinity"
+            ]
+        ],
+        [
+            -25.34124141,
+            [
+                "Conflux"
+            ]
+        ],
+        [
+            -25.03806187,
+            [
+                "Dash"
+            ]
+        ]
+    ],
+    "9)Le criptovalute la cui percentuale nelle ultime 24h sia superiore a 10% con il loro prezzo": [],
+    "10)Le criptovalute la cui percentuale negli ultimi 7d sia superiore a 10% e il prezzo uguale o inferiore a 10$": [],
+    "11)Le criptovalute che hanno reso il 5% sia nelle 24h sia nei 7d": [],
+    "12)Le criptovalute con un prezzo uguale o inferiore a 1$ che hanno reso il 10% nelle ultime 24h": []
+}
